@@ -366,21 +366,21 @@ legend{
     text-align: center;
   }
 
-  .title-image {
+  .phone {
     position: static;
     transform: rotate(0);
   }
 
   .card-bottom-2 {
     box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
-    width: 60%;
+    width: 80%;
     margin: auto;
     text-align: center;
   }
 
   .card-bottom {
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
-    width: 60%;
+    width: 80%;
     margin: auto;
     text-align: center;
   }
