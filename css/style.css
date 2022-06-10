@@ -371,6 +371,23 @@ legend{
     position: static;
     transform: rotate(0);
   }
+   
+     .navbar-collapse{
+    padding-right: 4%;
+    text-align: right;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+  }
+
+  .services{
+    padding-right: 4%;
+    text-align: right;
+    font-family: 'Ubuntu', sans-serif;
+    font-weight: 400;
+    font-size: 1rem;
+  }
+
 
   .card-bottom-2 {
     box-shadow: 0 8px 12px 0 rgba(0, 0, 0, 0.2);
